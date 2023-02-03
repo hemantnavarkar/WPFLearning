@@ -8,7 +8,5 @@ namespace DesignPatternsDemo.SOLID
 {
     public class SingleResponsibility
     {
-
-
     }
 }
