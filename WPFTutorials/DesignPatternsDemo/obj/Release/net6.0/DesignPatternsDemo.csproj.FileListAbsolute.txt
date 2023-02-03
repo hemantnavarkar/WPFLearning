@@ -1,0 +1,15 @@
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\bin\Release\net6.0\DesignPatternsDemo.exe
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\bin\Release\net6.0\DesignPatternsDemo.deps.json
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\bin\Release\net6.0\DesignPatternsDemo.runtimeconfig.json
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\bin\Release\net6.0\DesignPatternsDemo.dll
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\bin\Release\net6.0\DesignPatternsDemo.pdb
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.csproj.AssemblyReference.cache
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.AssemblyInfo.cs
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.csproj.CoreCompileInputs.cache
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.dll
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\refint\DesignPatternsDemo.dll
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.pdb
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\DesignPatternsDemo.genruntimeconfig.cache
+C:\Users\heman\Source\Repos\WPFLearning\WPFTutorials\DesignPatternsDemo\obj\Release\net6.0\ref\DesignPatternsDemo.dll
