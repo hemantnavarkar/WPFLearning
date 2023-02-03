@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj": {}
+    "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj": {
+    "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj",
+        "projectUniqueName": "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj",
         "projectName": "DesignPatternsDemo",
-        "projectPath": "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj",
+        "projectPath": "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\DesignPatternsDemo.csproj",
         "packagesPath": "C:\\Users\\heman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\obj\\",
+        "outputPath": "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFTutorials\\DesignPatternsDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
