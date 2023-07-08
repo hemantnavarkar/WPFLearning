@@ -1,47 +1,25 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using DesignPatternsDemo;
+using DesignPatternsDemo.Generics;
 using DesignPatternsDemo.ThreadDemo;
-using System.Diagnostics;
-using System.Threading;
+using System.Collections;
 
-Console.WriteLine("***********************Thread Demo");
-ThreadDemo demo = new ThreadDemo();
-Stopwatch stopwatch = new Stopwatch();
+Console.WriteLine("***********************Thread Demo**************************");
 
-stopwatch.Start();
-// Sync Way
-////demo.PrintNumbers();
+int data1 = 5;
+int data2 = 10;
 
+Utility.Swap(ref data1, ref data2);
 
-////var threads = new Thread[100];
-////for (int threadCounter = 0; threadCounter < 100; threadCounter++)
-////{
-////    Thread printerThread = new(new ThreadStart(demo.PrintNumbers))
-////    {
-////        Name = $"Thread{threadCounter}",
-////        IsBackground = false
-////    };
+Console.WriteLine(data1);
+Console.WriteLine(data2);
 
-////    threads[threadCounter] = printerThread;
-////    printerThread.Start();
-////}
+var floatPoint = new Point<int>(10, 10);
+var stringPoint = new Point<string>("10", "1"); 
 
 
 
-////foreach (var thread in threads.ToList())
-////{
-////    thread.Join();
-////}
-
-for (int threadCounter = 0; threadCounter < 100; threadCounter++)
-{
-    demo.PrintNumbers();
-}
-
-
-// demo.resetEvent.WaitOne();
 
 
 
-stopwatch.Stop();
-Console.WriteLine($"Hemant = {stopwatch.Elapsed}");
-Console.ReadLine();
+
