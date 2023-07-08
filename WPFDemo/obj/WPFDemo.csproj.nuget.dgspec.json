@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj": {}
+    "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj": {
+    "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj",
+        "projectUniqueName": "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj",
         "projectName": "WPFDemo",
-        "projectPath": "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj",
+        "projectPath": "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFDemo\\WPFDemo.csproj",
         "packagesPath": "C:\\Users\\heman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heman\\source\\repos\\WPFLearning\\WPFDemo\\obj\\",
+        "outputPath": "C:\\Users\\heman\\Source\\Repos\\WPFLearning\\WPFDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

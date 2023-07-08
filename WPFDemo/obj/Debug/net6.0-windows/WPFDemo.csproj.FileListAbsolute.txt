@@ -20,3 +20,4 @@ C:\Users\heman\source\repos\WPFLearning\WPFDemo\obj\Debug\net6.0-windows\WPFDemo
 C:\Users\heman\source\repos\WPFLearning\WPFDemo\obj\Debug\net6.0-windows\WPFDemo.genruntimeconfig.cache
 C:\Users\heman\source\repos\WPFLearning\WPFDemo\obj\Debug\net6.0-windows\ref\WPFDemo.dll
 C:\Users\heman\source\repos\WPFLearning\WPFDemo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\heman\Source\Repos\WPFLearning\WPFDemo\obj\Debug\net6.0-windows\App.baml

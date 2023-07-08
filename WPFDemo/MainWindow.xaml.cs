@@ -23,6 +23,34 @@ namespace WPFDemo
         public MainWindow()
         {
             InitializeComponent();
+
+            _ = Task.Run(() =>
+            {
+                while (true)
+                {
+                    try
+                    {
+                        Dispatcher.Invoke(() =>
+                        {
+                            var previousVale = custumProgressBar.Value;
+
+                            if (previousVale >= 100)
+                            {
+                                previousVale = 0;
+                            }
+                            custumProgressBar.Value = previousVale + 10;
+                        });
+
+                    }
+                    catch (System.Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+
+                    Task.Delay(1000);
+
+                }
+            });
         }
     }
 }

@@ -20,5 +20,17 @@
                 </Style>
             </extensionbutton:ExtensionButton.Style>-->
         </extensionbutton:ExtensionButton>
+
+        <ProgressBar x:Name="custumProgressBar" 
+                     Height="100" 
+                     Width="100"
+                     Minimum="0" 
+                     Maximum="100"
+                     IsIndeterminate="False"
+                     IsEnabled="True"
+                     Template="{StaticResource progressPie}"/>
+
+
+
     </StackPanel>
 </Window>
