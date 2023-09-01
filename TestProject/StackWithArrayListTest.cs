@@ -1,15 +1,15 @@
-using InterviewTask;
+using InterviewTask.Implemetation;
 
 namespace TestProject
 {
     [TestClass]
-    public class UnitTest1
+    public class StackWithArrayListTest
     {
         [TestMethod]
         public void StackPush_Int_CountShouled1()
         {
             // Arregr
-            LocalStack lc = new LocalStack();
+            StackWithArrayList<int> lc = new StackWithArrayList<int>();
 
             //Act 
             lc.Push(1);
@@ -24,12 +24,12 @@ namespace TestProject
         public void StackPush_Int_LastItem()
         {
             // Arregr
-            LocalStack lc = new LocalStack();
+            StackWithArrayList<int> lc = new StackWithArrayList<int>();
             lc.Push(1);
             lc.Push(2);
             lc.Push(3);
 
-            var result = lc.Pop<int>();
+            var result = lc.Pop();
             //Act 
 
 
@@ -42,7 +42,7 @@ namespace TestProject
         public void StackPush_EmptyScenarion_THrowsException()
         {
             // Arregr
-            LocalStack lc = new LocalStack();
+            StackWithArrayList<int> lc = new StackWithArrayList<int>();
 
             //Act 
             lc.Push(1);
@@ -53,7 +53,7 @@ namespace TestProject
             bool isExceptionThrowm = false; ;
             try
             {
-                var result = lc.Pop<int>();
+                var result = lc.Pop();
             }
             catch (Exception)
             {

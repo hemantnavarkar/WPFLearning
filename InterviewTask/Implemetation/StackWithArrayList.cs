@@ -1,27 +1,28 @@
 ﻿using System.Collections;
 
-namespace InterviewTask
+namespace InterviewTask.Implemetation
 {
-    public class LocalStack : IStack
+    public class StackWithArrayList<TElement> : IStack<TElement>
     {
         public ArrayList dataHoldingList;
-        public LocalStack()
+
+        public StackWithArrayList()
         {
             dataHoldingList = new ArrayList();
         }
-        public TElement Pop<TElement>()
+        public TElement Pop()
         {
-            var lastEntryAvailble = dataHoldingList.ToArray()[dataHoldingList.Count -1];
+            var lastEntryAvailble = dataHoldingList.ToArray()[dataHoldingList.Count - 1];
             if (lastEntryAvailble == null)
             {
                 throw new Exception();
             }
 
-            dataHoldingList.RemoveAt(dataHoldingList.Count -1);
+            dataHoldingList.RemoveAt(dataHoldingList.Count - 1);
             return (TElement)lastEntryAvailble;
         }
 
-        public void Push<TElement>(TElement item)
+        public void Push(TElement item)
         {
             if (item == null)
             {

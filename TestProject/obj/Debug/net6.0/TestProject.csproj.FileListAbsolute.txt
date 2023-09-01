@@ -102,3 +102,12 @@ C:\Users\heman\source\repos\WPFLearning\TestProject\obj\Debug\net6.0\refint\Test
 C:\Users\heman\source\repos\WPFLearning\TestProject\obj\Debug\net6.0\TestProject.pdb
 C:\Users\heman\source\repos\WPFLearning\TestProject\obj\Debug\net6.0\TestProject.genruntimeconfig.cache
 C:\Users\heman\source\repos\WPFLearning\TestProject\obj\Debug\net6.0\ref\TestProject.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\heman\source\repos\WPFLearning\TestProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
