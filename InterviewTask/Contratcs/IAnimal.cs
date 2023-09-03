@@ -3,7 +3,7 @@
     /// <summary>
     /// Thw animal contract
     /// </summary>
-    internal interface IAnimal
+    public interface IAnimal
     {
         public int Legs { get; set; }
 

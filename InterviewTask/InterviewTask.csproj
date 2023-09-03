@@ -20,4 +20,12 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="SOLID\LSP\" />
+    <Folder Include="SOLID\IS\" />
+    <Folder Include="SOLID\DI\" />
+    <Folder Include="SOLID\OCP\" />
+    <Folder Include="SOLID\SRP\" />
+  </ItemGroup>
+
 </Project>
